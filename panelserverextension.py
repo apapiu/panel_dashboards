@@ -1,6 +1,5 @@
 from subprocess import Popen
 
-
 def load_jupyter_server_extension(nbapp):
     """serve the bokeh-app directory with bokeh server"""
-    Popen(["panel", "serve", "mean_filter.ipynb", "--allow-websocket-origin=*"])
+    Popen(["panel", "serve", "apps/panel_app.py", "--allow-websocket-origin=*"])
