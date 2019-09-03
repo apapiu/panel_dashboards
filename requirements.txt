@@ -23,6 +23,7 @@ jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-console==6.0.0
 jupyter-core==4.4.0
+hvplot==0.4.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
 mistune==0.8.4
