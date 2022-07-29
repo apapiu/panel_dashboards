@@ -26,7 +26,7 @@ jupyter-core==4.4.0
 hvplot==0.4.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 nbconvert==5.6.0
 nbformat==4.4.0
 notebook==6.0.1
